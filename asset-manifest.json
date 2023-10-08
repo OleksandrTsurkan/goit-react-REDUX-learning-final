@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/goit-react-REDUX-learning-final/static/css/main.e6c13ad2.css",
+    "main.js": "/goit-react-REDUX-learning-final/static/js/main.77582b9b.js",
+    "static/css/730.4c16748c.chunk.css": "/goit-react-REDUX-learning-final/static/css/730.4c16748c.chunk.css",
+    "static/js/730.14377373.chunk.js": "/goit-react-REDUX-learning-final/static/js/730.14377373.chunk.js",
+    "index.html": "/goit-react-REDUX-learning-final/index.html",
+    "main.e6c13ad2.css.map": "/goit-react-REDUX-learning-final/static/css/main.e6c13ad2.css.map",
+    "main.77582b9b.js.map": "/goit-react-REDUX-learning-final/static/js/main.77582b9b.js.map",
+    "730.4c16748c.chunk.css.map": "/goit-react-REDUX-learning-final/static/css/730.4c16748c.chunk.css.map",
+    "730.14377373.chunk.js.map": "/goit-react-REDUX-learning-final/static/js/730.14377373.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.77582b9b.js"
+  ]
+}
